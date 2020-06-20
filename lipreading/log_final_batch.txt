@@ -1,0 +1,283 @@
+./dataset1/03/IMG_0389.MOV : Too many face detected 
+./dataset1/03/IMG_0308.MOV : Too many face detected 
+./dataset1/03/20200115_115032_Trim.mp4 : No face detected 
+./dataset1/03/VID-20200115-WA0201.mp4 : No face detected 
+./dataset1/03/IMG_0120.MOV : Too many face detected 
+./dataset1/03/20200115_124341_Trim.mp4 : No face detected 
+./dataset1/03/20200115_114617_Trim.mp4 : No face detected 
+./dataset1/03/20200115_124557_Trim.mp4 : No face detected 
+./dataset1/03/20200115_115000_Trim.mp4 : No face detected 
+./dataset1/03/20200115_114430_Trim.mp4 : No face detected 
+./dataset1/03/20200115_120126_Trim.mp4 : No face detected 
+./dataset1/03/20200115_114728_Trim.mp4 : No face detected 
+./dataset1/03/20200115_114653_Trim.mp4 : No face detected 
+./dataset1/03/20200115_114931_Trim.mp4 : No face detected 
+./dataset1/03/20200115_124442_Trim.mp4 : No face detected 
+./dataset1/03/VID-20200115-WA0011.mp4 : No face detected 
+./dataset1/03/20200115_115054_Trim.mp4 : No face detected 
+./dataset1/03/IMG_0647.MOV : Too many face detected 
+./dataset1/03/20200115_114456_Trim.mp4 : No face detected 
+./dataset1/03/IMG_0623.MOV : Too many face detected 
+./dataset1/03/IMG_0544.MOV : Too many face detected 
+./dataset1/03/IMG_0612.MOV : Too many face detected 
+./dataset1/03/20200115_114912_Trim.mp4 : No face detected 
+./dataset1/03/20200115_114833_Trim.mp4 : No face detected 
+./dataset1/03/20200115_115154_Trim.mp4 : No face detected 
+./dataset1/03/20200115_114527_Trim.mp4 : No face detected 
+./dataset1/03/20200115_114801_Trim.mp4 : No face detected 
+./dataset1/03/IMG_0401.MOV : No face detected 
+./dataset1/03/20200115_115114_Trim.mp4 : No face detected 
+./dataset1/03/20200115_122645_Trim.mp4 : No face detected 
+./dataset1/03/IMG_0577.MOV : Too many face detected 
+./dataset1/05/IMG_0625.MOV : Too many face detected 
+./dataset1/05/IMG_0366.MOV : Too many face detected 
+./dataset1/05/IMG_0165.MOV : Too many face detected 
+./dataset1/05/20200115_115032_Trim.mp4 : No face detected 
+./dataset1/05/IMG_0650.MOV : Too many face detected 
+./dataset1/05/20200115_124341_Trim.mp4 : No face detected 
+./dataset1/05/20200115_114617_Trim.mp4 : No face detected 
+./dataset1/05/20200115_124557_Trim.mp4 : No face detected 
+./dataset1/05/20200115_115000_Trim.mp4 : No face detected 
+./dataset1/05/20200115_114430_Trim.mp4 : No face detected 
+./dataset1/05/20200115_120126_Trim.mp4 : No face detected 
+./dataset1/05/IMG_0638.MOV : Too many face detected 
+./dataset1/05/20200115_114728_Trim.mp4 : No face detected 
+./dataset1/05/20200115_114653_Trim.mp4 : No face detected 
+./dataset1/05/VID-20200115-WA0203.mp4 : No face detected 
+./dataset1/05/VID-20200115-WA0013.mp4 : No face detected 
+./dataset1/05/20200115_114931_Trim.mp4 : No face detected 
+./dataset1/05/20200115_124442_Trim.mp4 : No face detected 
+./dataset1/05/20200115_115054_Trim.mp4 : No face detected 
+./dataset1/05/20200115_114456_Trim.mp4 : No face detected 
+./dataset1/05/IMG_0591.MOV : Too many face detected 
+./dataset1/05/20200115_114912_Trim.mp4 : No face detected 
+./dataset1/05/20200115_114833_Trim.mp4 : No face detected 
+./dataset1/05/20200115_115154_Trim.mp4 : No face detected 
+./dataset1/05/20200115_114527_Trim.mp4 : No face detected 
+./dataset1/05/20200115_114801_Trim.mp4 : No face detected 
+./dataset1/05/IMG_0122.MOV : Too many face detected 
+./dataset1/05/20200115_115114_Trim.mp4 : No face detected 
+./dataset1/05/IMG_0391.MOV : No face detected 
+./dataset1/05/IMG_0602.MOV : No face detected 
+./dataset1/05/20200115_122645_Trim.mp4 : No face detected 
+./dataset1/05/IMG_0792.MOV : Too many face detected 
+./dataset1/02/VID-20200115-WA0009.mp4 : No face detected 
+./dataset1/02/IMG_0468.MOV : Too many face detected 
+./dataset1/02/20200115_115032_Trim.mp4 : No face detected 
+./dataset1/02/20200115_124341_Trim.mp4 : No face detected 
+./dataset1/02/20200115_114617_Trim.mp4 : No face detected 
+./dataset1/02/20200115_124557_Trim.mp4 : No face detected 
+./dataset1/02/20200115_115000_Trim.mp4 : No face detected 
+./dataset1/02/20200115_114430_Trim.mp4 : No face detected 
+./dataset1/02/20200115_120126_Trim.mp4 : No face detected 
+./dataset1/02/20200115_114728_Trim.mp4 : No face detected 
+./dataset1/02/20200115_114653_Trim.mp4 : No face detected 
+./dataset1/02/IMG_0388.MOV : No face detected 
+./dataset1/02/20200115_114931_Trim.mp4 : No face detected 
+./dataset1/02/20200115_124442_Trim.mp4 : No face detected 
+./dataset1/02/IMG_0307.MOV : Too many face detected 
+./dataset1/02/20200115_115054_Trim.mp4 : No face detected 
+./dataset1/02/IMG_0499.MOV : No face detected 
+./dataset1/02/IMG_0543.MOV : Too many face detected 
+./dataset1/02/20200115_114456_Trim.mp4 : No face detected 
+./dataset1/02/20200115_114912_Trim.mp4 : No face detected 
+./dataset1/02/VID-20200115-WA0057.mp4 : No face detected 
+./dataset1/02/20200115_114833_Trim.mp4 : No face detected 
+./dataset1/02/20200115_115154_Trim.mp4 : No face detected 
+./dataset1/02/20200115_114527_Trim.mp4 : No face detected 
+./dataset1/02/20200115_114801_Trim.mp4 : No face detected 
+./dataset1/02/VID-20200115-WA0200.mp4 : No face detected 
+./dataset1/02/20200115_115114_Trim.mp4 : No face detected 
+./dataset1/02/IMG_0800.MOV : Too many face detected 
+./dataset1/02/IMG_0622.MOV : Too many face detected 
+./dataset1/02/IMG_0119.MOV : Too many face detected 
+./dataset1/02/20200115_122645_Trim.mp4 : No face detected 
+./dataset1/01/IMG_0740.MOV : Too many face detected 
+./dataset1/01/IMG_0799.MOV : Too many face detected 
+./dataset1/01/IMG_0787.MOV : Too many face detected 
+./dataset1/01/20200115_115032_Trim.mp4 : No face detected 
+./dataset1/01/20200115_124341_Trim.mp4 : No face detected 
+./dataset1/01/20200115_114617_Trim.mp4 : No face detected 
+./dataset1/01/20200115_124557_Trim.mp4 : No face detected 
+./dataset1/01/20200115_115000_Trim.mp4 : No face detected 
+./dataset1/01/20200115_114430_Trim.mp4 : No face detected 
+./dataset1/01/20200115_120126_Trim.mp4 : No face detected 
+./dataset1/01/20200115_114728_Trim.mp4 : No face detected 
+./dataset1/01/20200115_114653_Trim.mp4 : No face detected 
+./dataset1/01/IMG_0621.MOV : Too many face detected 
+./dataset1/01/IMG_0632.MOV : Too many face detected 
+./dataset1/01/20200115_114931_Trim.mp4 : No face detected 
+./dataset1/01/VID-20200115-WA0199.mp4 : No face detected 
+./dataset1/01/20200115_124442_Trim.mp4 : No face detected 
+./dataset1/01/IMG_0657.MOV : No face detected 
+./dataset1/01/20200115_115054_Trim.mp4 : No face detected 
+./dataset1/01/IMG_0399.MOV : No face detected 
+./dataset1/01/20200115_114456_Trim.mp4 : No face detected 
+./dataset1/01/IMG_0118.MOV : Too many face detected 
+./dataset1/01/20200115_114912_Trim.mp4 : No face detected 
+./dataset1/01/20200115_114833_Trim.mp4 : No face detected 
+./dataset1/01/20200115_115154_Trim.mp4 : No face detected 
+./dataset1/01/20200115_114527_Trim.mp4 : No face detected 
+./dataset1/01/20200115_114801_Trim.mp4 : No face detected 
+./dataset1/01/20200115_115114_Trim.mp4 : No face detected 
+./dataset1/01/VID-20200115-WA0010.mp4 : No face detected 
+./dataset1/07/IMG_0368.MOV : Too many face detected 
+./dataset1/07/IMG_0393.MOV : No face detected 
+./dataset1/07/VID-20200115-WA0015.mp4 : No face detected 
+./dataset1/07/IMG_0277.MOV : Too many face detected 
+./dataset1/07/20200115_115032_Trim.mp4 : No face detected 
+./dataset1/07/IMG_0735.MOV : Too many face detected 
+./dataset1/07/20200115_124341_Trim.mp4 : No face detected 
+./dataset1/07/20200115_114617_Trim.mp4 : No face detected 
+./dataset1/07/IMG_0167.MOV : Too many face detected 
+./dataset1/07/20200115_124557_Trim.mp4 : No face detected 
+./dataset1/07/20200115_115000_Trim.mp4 : No face detected 
+./dataset1/07/20200115_114430_Trim.mp4 : No face detected 
+./dataset1/07/IMG_0723.MOV : Too many face detected 
+./dataset1/07/20200115_120126_Trim.mp4 : No face detected 
+./dataset1/07/20200115_114728_Trim.mp4 : No face detected 
+./dataset1/07/20200115_114653_Trim.mp4 : No face detected 
+./dataset1/07/IMG_0696.MOV : Too many face detected 
+./dataset1/07/20200115_114931_Trim.mp4 : No face detected 
+./dataset1/07/20200115_124442_Trim.mp4 : No face detected 
+./dataset1/07/20200115_115054_Trim.mp4 : No face detected 
+./dataset1/07/VID-20200115-WA0026.mp4 : No face detected 
+./dataset1/07/IMG_0652.MOV : Too many face detected 
+./dataset1/07/20200115_114456_Trim.mp4 : No face detected 
+./dataset1/07/20200115_114912_Trim.mp4 : No face detected 
+./dataset1/07/20200115_114833_Trim.mp4 : No face detected 
+./dataset1/07/20200115_115154_Trim.mp4 : No face detected 
+./dataset1/07/20200115_114527_Trim.mp4 : No face detected 
+./dataset1/07/20200115_114801_Trim.mp4 : No face detected 
+./dataset1/07/20200115_115114_Trim.mp4 : No face detected 
+./dataset1/07/IMG_0604.MOV : Too many face detected 
+./dataset1/07/IMG_0124.MOV : Too many face detected 
+./dataset1/07/20200115_122645_Trim.mp4 : No face detected 
+./dataset1/00/IMG_0667.MOV : Too many face detected 
+./dataset1/00/VID-20200115-WA0198.mp4 : No face detected 
+./dataset1/00/IMG_0620.MOV : Too many face detected 
+./dataset1/00/20200115_115032_Trim.mp4 : No face detected 
+./dataset1/00/20200115_124341_Trim.mp4 : No face detected 
+./dataset1/00/20200115_114617_Trim.mp4 : No face detected 
+./dataset1/00/20200115_124557_Trim.mp4 : No face detected 
+./dataset1/00/20200115_115000_Trim.mp4 : No face detected 
+./dataset1/00/20200115_114430_Trim.mp4 : No face detected 
+./dataset1/00/IMG_0786.MOV : Too many face detected 
+./dataset1/00/20200115_120126_Trim.mp4 : No face detected 
+./dataset1/00/20200115_114728_Trim.mp4 : No face detected 
+./dataset1/00/20200115_114653_Trim.mp4 : No face detected 
+./dataset1/00/IMG_0117.MOV : Too many face detected 
+./dataset1/00/IMG_0699.MOV : Too many face detected 
+./dataset1/00/IMG_0656.MOV : No face detected 
+./dataset1/00/VID-20200115-WA0008.mp4 : No face detected 
+./dataset1/00/20200115_114931_Trim.mp4 : No face detected 
+./dataset1/00/IMG_0798.MOV : Too many face detected 
+./dataset1/00/IMG_0597.MOV : No face detected 
+./dataset1/00/IMG_0644.MOV : Too many face detected 
+./dataset1/00/20200115_124442_Trim.mp4 : No face detected 
+./dataset1/00/20200115_115054_Trim.mp4 : No face detected 
+./dataset1/00/20200115_114456_Trim.mp4 : No face detected 
+./dataset1/00/VID-20200115-WA0019.mp4 : No face detected 
+./dataset1/00/20200115_114912_Trim.mp4 : No face detected 
+./dataset1/00/20200115_114833_Trim.mp4 : No face detected 
+./dataset1/00/20200115_115154_Trim.mp4 : No face detected 
+./dataset1/00/20200115_114527_Trim.mp4 : No face detected 
+./dataset1/00/20200115_114801_Trim.mp4 : No face detected 
+./dataset1/00/IMG_0386.MOV : No face detected 
+./dataset1/00/IMG_0631.MOV : Too many face detected 
+./dataset1/00/IMG_0410.MOV : Too many face detected 
+./dataset1/silent/IMG_0487.MOV : Too many face detected 
+./dataset1/silent/VID-20200115-WA0197.mp4 : No face detected 
+./dataset1/silent/VID-20200115-WA0054.mp4 : No face detected 
+./dataset1/silent/20200115_115032_Trim.mp4 : No face detected 
+./dataset1/silent/20200115_124341_Trim.mp4 : No face detected 
+./dataset1/silent/20200115_114617_Trim.mp4 : No face detected 
+./dataset1/silent/20200115_124557_Trim.mp4 : No face detected 
+./dataset1/silent/20200115_115000_Trim.mp4 : No face detected 
+./dataset1/silent/20200115_114430_Trim.mp4 : No face detected 
+./dataset1/silent/20200115_120126_Trim.mp4 : No face detected 
+./dataset1/silent/20200115_114728_Trim.mp4 : No face detected 
+./dataset1/silent/20200115_114653_Trim.mp4 : No face detected 
+./dataset1/silent/20200115_114931_Trim.mp4 : No face detected 
+./dataset1/silent/IMG_0116.MOV : Too many face detected 
+./dataset1/silent/20200115_124442_Trim.mp4 : No face detected 
+./dataset1/silent/IMG_0258.MOV : Too many face detected 
+./dataset1/silent/20200115_115054_Trim.mp4 : No face detected 
+./dataset1/silent/IMG_0619.MOV : Too many face detected 
+./dataset1/silent/20200115_124227_Trim.mp4 : No face detected 
+./dataset1/silent/IMG_0454.MOV : No face detected 
+./dataset1/silent/20200115_114456_Trim.mp4 : No face detected 
+./dataset1/silent/IMG_0797.MOV : Too many face detected 
+./dataset1/silent/20200115_114912_Trim.mp4 : No face detected 
+./dataset1/silent/20200115_114833_Trim.mp4 : No face detected 
+./dataset1/silent/20200115_115154_Trim.mp4 : No face detected 
+./dataset1/silent/IMG_0573.MOV : Too many face detected 
+./dataset1/silent/20200115_114527_Trim.mp4 : No face detected 
+./dataset1/silent/20200115_114801_Trim.mp4 : No face detected 
+./dataset1/silent/20200115_115114_Trim.mp4 : No face detected 
+./dataset1/silent/VID-20200115-WA0007.mp4 : No face detected 
+./dataset1/silent/IMG_0643.MOV : Too many face detected 
+./dataset1/09/IMG_0442.MOV : Too many face detected 
+./dataset1/09/IMG_0314.MOV : Too many face detected 
+./dataset1/09/IMG_0528.MOV : Too many face detected 
+./dataset1/09/20200115_115032_Trim.mp4 : No face detected 
+./dataset1/09/VID-20200115-WA0028.mp4 : No face detected 
+./dataset1/09/20200115_124341_Trim.mp4 : No face detected 
+./dataset1/09/20200115_114617_Trim.mp4 : No face detected 
+./dataset1/09/20200115_124557_Trim.mp4 : No face detected 
+./dataset1/09/20200115_115000_Trim.mp4 : No face detected 
+./dataset1/09/20200115_114430_Trim.mp4 : No face detected 
+./dataset1/09/20200115_120126_Trim.mp4 : No face detected 
+./dataset1/09/20200115_114728_Trim.mp4 : No face detected 
+./dataset1/09/20200115_114653_Trim.mp4 : No face detected 
+./dataset1/09/IMG_0202.MOV : Too many face detected 
+./dataset1/09/IMG_0654.MOV : Too many face detected 
+./dataset1/09/20200115_114931_Trim.mp4 : No face detected 
+./dataset1/09/IMG_0595.MOV : Too many face detected 
+./dataset1/09/IMG_0126.MOV : Too many face detected 
+./dataset1/09/20200115_124442_Trim.mp4 : No face detected 
+./dataset1/09/20200115_115054_Trim.mp4 : No face detected 
+./dataset1/09/VID-20200115-WA0017.mp4 : No face detected 
+./dataset1/09/IMG_0517.MOV : Too many face detected 
+./dataset1/09/20200115_124227_Trim.mp4 : No face detected 
+./dataset1/09/20200115_114456_Trim.mp4 : No face detected 
+./dataset1/09/IMG_0698.MOV : Too many face detected 
+./dataset1/09/20200115_114912_Trim.mp4 : No face detected 
+./dataset1/09/20200115_114833_Trim.mp4 : No face detected 
+./dataset1/09/IMG_0606.MOV : No face detected 
+./dataset1/09/20200115_115154_Trim.mp4 : No face detected 
+./dataset1/09/20200115_114527_Trim.mp4 : No face detected 
+./dataset1/09/20200115_114801_Trim.mp4 : No face detected 
+./dataset1/09/20200115_115114_Trim.mp4 : No face detected 
+./dataset1/09/20200115_122645_Trim.mp4 : No face detected 
+./dataset1/09/IMG_0618.MOV : Too many face detected 
+./dataset1/09/IMG_0395.MOV : No face detected 
+./dataset1/04/IMG_0390.MOV : Too many face detected 
+./dataset1/04/IMG_0791.MOV : Too many face detected 
+./dataset1/04/20200115_115032_Trim.mp4 : No face detected 
+./dataset1/04/20200115_124341_Trim.mp4 : No face detected 
+./dataset1/04/20200115_114617_Trim.mp4 : No face detected 
+./dataset1/04/20200115_124557_Trim.mp4 : No face detected 
+./dataset1/04/20200115_115000_Trim.mp4 : No face detected 
+./dataset1/04/20200115_114430_Trim.mp4 : No face detected 
+./dataset1/04/20200115_120126_Trim.mp4 : No face detected 
+./dataset1/04/20200115_114728_Trim.mp4 : No face detected 
+./dataset1/04/IMG_0601.MOV : No face detected 
+./dataset1/04/20200115_114653_Trim.mp4 : No face detected 
+./dataset1/04/IMG_0121.MOV : Too many face detected 
+./dataset1/04/20200115_114931_Trim.mp4 : No face detected 
+./dataset1/04/20200115_124442_Trim.mp4 : No face detected 
+./dataset1/04/20200115_115054_Trim.mp4 : No face detected 
+./dataset1/04/IMG_0624.MOV : Too many face detected 
+./dataset1/04/IMG_0545.MOV : Too many face detected 
+./dataset1/04/20200115_114456_Trim.mp4 : No face detected 
+./dataset1/04/20200115_114912_Trim.mp4 : No face detected 
+./dataset1/04/20200115_114833_Trim.mp4 : No face detected 
+./dataset1/04/20200115_115154_Trim.mp4 : No face detected 
+./dataset1/04/20200115_114527_Trim.mp4 : No face detected 
+./dataset1/04/20200115_114801_Trim.mp4 : No face detected 
+./dataset1/04/20200115_115114_Trim.mp4 : No face detected 
+./dataset1/04/IMG_0703.MOV : Too many face detected 
+./dataset1/04/VID-20200115-WA0202.mp4 : No face detected 
+./dataset1/04/VID-20200115-WA0012.mp4 : No face detected 
+./dataset1/04/20200115_122645_Trim.mp4 : No face detected 

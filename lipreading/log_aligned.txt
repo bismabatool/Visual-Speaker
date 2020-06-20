@@ -1,0 +1,177 @@
+./data/07/IMG_0368.MOV : Too many face detected 
+./data/07/IMG_9612.MOV : No face detected 
+./data/07/IMG_9239.MOV : No face detected 
+./data/07/IMG_0393.MOV : No face detected 
+./data/07/IMG_9262.MOV : No face detected 
+./data/07/20200112_205430_Trim.mp4 : No face detected 
+./data/07/VID-20200115-WA0015.mp4 : No face detected 
+./data/07/20200112_181321_Trim.mp4 : No face detected 
+./data/07/IMG_0277.MOV : Too many face detected 
+./data/07/20200112_171919_Trim.mp4 : No face detected 
+./data/07/a.mp4 : No face detected 
+./data/07/IMG_9307.MOV : No face detected 
+./data/07/20200115_115032_Trim.mp4 : No face detected 
+./data/07/VID20191128113642.mp4 : No face detected 
+./data/07/20200112_205857_Trim.mp4 : No face detected 
+./data/07/IMG_0735.MOV : Too many face detected 
+./data/07/VID20191128113831.mp4 : No face detected 
+./data/07/IMG_9679.MOV : Too many face detected 
+./data/07/20200112_172453_Trim.mp4 : No face detected 
+./data/07/20200115_124341_Trim.mp4 : No face detected 
+./data/07/20200115_114617_Trim.mp4 : No face detected 
+./data/07/20200112_170947_Trim.mp4 : No face detected 
+./data/07/IMG_0167.MOV : Too many face detected 
+./data/07/20200112_181558_Trim.mp4 : No face detected 
+./data/07/IMG_9018.MOV : Too many face detected 
+./data/07/IMG_9345.MOV : Too many face detected 
+./data/07/20200115_124557_Trim.mp4 : No face detected 
+./data/07/20200115_115000_Trim.mp4 : No face detected 
+./data/07/20200115_114430_Trim.mp4 : No face detected 
+./data/07/IMG_0723.MOV : Too many face detected 
+./data/07/20200115_120126_Trim.mp4 : No face detected 
+./data/07/20200115_114728_Trim.mp4 : No face detected 
+./data/07/IMG_9601.MOV : No face detected 
+./data/07/VID-20200112-WA0166.mp4 : No face detected 
+./data/07/20200115_114653_Trim.mp4 : No face detected 
+./data/07/IMG_9423.MOV : No face detected 
+./data/07/VID-20200112-WA0152.mp4 : No face detected 
+./data/07/20200112_172626_Trim.mp4 : No face detected 
+./data/07/20200112_181236_Trim.mp4 : No face detected 
+./data/07/20200112_180109_Trim.mp4 : No face detected 
+./data/07/IMG_9322.MOV : No face detected 
+./data/07/IMG_0696.MOV : Too many face detected 
+./data/07/VID-20200112-WA0124.mp4 : No face detected 
+./data/07/20200112_205328_Trim.mp4 : No face detected 
+./data/07/20200112_205828_Trim.mp4 : No face detected 
+./data/07/IMG_9284.MOV : No face detected 
+./data/07/20200115_114931_Trim.mp4 : No face detected 
+./data/07/20200112_205737_Trim.mp4 : No face detected 
+./data/07/20200112_172943_Trim.mp4 : No face detected 
+./data/07/20200112_205216_Trim.mp4 : No face detected 
+./data/07/20200115_124442_Trim.mp4 : No face detected 
+./data/07/IMG_9412.MOV : No face detected 
+./data/07/IMG_9194.MOV : Too many face detected 
+./data/07/20200115_115054_Trim.mp4 : No face detected 
+./data/07/VID-20200115-WA0026.mp4 : No face detected 
+./data/07/VID20191128131958.mp4 : No face detected 
+./data/07/IMG_9435.MOV : No face detected 
+./data/07/VID-20200112-WA0005_Trim.mp4 : No face detected 
+./data/07/IMG_0652.MOV : Too many face detected 
+./data/07/VID-20200112-WA0215.mp4 : No face detected 
+./data/07/20200112_171959_Trim.mp4 : No face detected 
+./data/07/IMG_9099.MOV : Too many face detected 
+./data/07/20200115_114456_Trim.mp4 : No face detected 
+./data/07/VID-20200112-WA0177.mp4 : No face detected 
+./data/07/20200112_171719_Trim.mp4 : No face detected 
+./data/07/IMG_9457.MOV : Too many face detected 
+./data/07/20200115_114912_Trim.mp4 : No face detected 
+./data/07/20200115_114833_Trim.mp4 : No face detected 
+./data/07/20200112_171303_Trim.mp4 : No face detected 
+./data/07/20200115_115154_Trim.mp4 : No face detected 
+./data/07/VID20191128132841.mp4 : No face detected 
+./data/07/20200115_114527_Trim.mp4 : No face detected 
+./data/07/20200115_114801_Trim.mp4 : No face detected 
+./data/07/20200115_115114_Trim.mp4 : No face detected 
+./data/07/IMG_9468.MOV : No face detected 
+./data/07/20200112_172713_Trim.mp4 : No face detected 
+./data/07/IMG_9296.MOV : No face detected 
+./data/07/20200112_181512_Trim.mp4 : No face detected 
+./data/07/20200112_205759_Trim.mp4 : No face detected 
+./data/07/IMG_0604.MOV : Too many face detected 
+./data/07/IMG_0124.MOV : Too many face detected 
+./data/07/WhatsApp Video 2020-01-13 at 1.45.24 AM (1).mp4 : No face detected 
+./data/07/20200115_122645_Trim.mp4 : No face detected 
+./data/07/20200112_172153_Trim.mp4 : No face detected 
+./data/07/VID-20200112-WA0129.mp4 : No face detected 
+./data/07/IMG_9490.MOV : Too many face detected 
+./data/07/VID-20200112-WA0207.mp4 : No face detected 
+./data/04/IMG_9465.MOV : No face detected 
+./data/04/IMG_9409.MOV : No face detected 
+./data/04/IMG_0390.MOV : Too many face detected 
+./data/04/VID20191128132822.mp4 : No face detected 
+./data/04/20200112_205430_Trim.mp4 : No face detected 
+./data/04/20200112_181321_Trim.mp4 : No face detected 
+./data/04/VID-20200112-WA0123.mp4 : No face detected 
+./data/04/IMG_0791.MOV : Too many face detected 
+./data/04/20200112_171919_Trim.mp4 : No face detected 
+./data/04/IMG_9420.MOV : No face detected 
+./data/04/a.mp4 : No face detected 
+./data/04/20200115_115032_Trim.mp4 : No face detected 
+./data/04/20200112_205857_Trim.mp4 : No face detected 
+./data/04/IMG_9342.MOV : Too many face detected 
+./data/04/VID-20200112-WA0221.mp4 : No face detected 
+./data/04/IMG_9665.MOV : Too many face detected 
+./data/04/b.mp4 : No face detected 
+./data/04/VID-20200112-WA0213.mp4 : No face detected 
+./data/04/20200112_172453_Trim.mp4 : No face detected 
+./data/04/20200115_124341_Trim.mp4 : No face detected 
+./data/04/20200115_114617_Trim.mp4 : No face detected 
+./data/04/VID-20200112-WA0155.mp4 : No face detected 
+./data/04/20200112_181558_Trim.mp4 : No face detected 
+./data/04/20200115_124557_Trim.mp4 : No face detected 
+./data/04/20200115_115000_Trim.mp4 : No face detected 
+./data/04/20200115_114430_Trim.mp4 : No face detected 
+./data/04/20200115_120126_Trim.mp4 : No face detected 
+./data/04/VID-20200112-WA0162.mp4 : No face detected 
+./data/04/IMG_9096.MOV : Too many face detected 
+./data/04/20200115_114728_Trim.mp4 : No face detected 
+./data/04/IMG_0601.MOV : No face detected 
+./data/04/IMG_9108.MOV : Too many face detected 
+./data/04/IMG_9259.MOV : No face detected 
+./data/04/20200115_114653_Trim.mp4 : No face detected 
+./data/04/20200112_172626_Trim.mp4 : No face detected 
+./data/04/20200112_181236_Trim.mp4 : No face detected 
+./data/04/IMG_9319.MOV : No face detected 
+./data/04/20200112_180109_Trim.mp4 : No face detected 
+./data/04/20200112_205328_Trim.mp4 : No face detected 
+./data/04/20200112_205828_Trim.mp4 : No face detected 
+./data/04/IMG_9236.MOV : No face detected 
+./data/04/IMG_0121.MOV : Too many face detected 
+./data/04/20200115_114931_Trim.mp4 : No face detected 
+./data/04/20200112_205737_Trim.mp4 : No face detected 
+./data/04/20200112_172943_Trim.mp4 : No face detected 
+./data/04/20200112_205216_Trim.mp4 : No face detected 
+./data/04/20200115_124442_Trim.mp4 : No face detected 
+./data/04/IMG_9509.MOV : Too many face detected 
+./data/04/20200115_115054_Trim.mp4 : No face detected 
+./data/04/IMG_0624.MOV : Too many face detected 
+./data/04/IMG_0545.MOV : Too many face detected 
+./data/04/IMG_9498.MOV : Too many face detected 
+./data/04/IMG_9015.MOV : Too many face detected 
+./data/04/VID-20200112-WA0005_Trim.mp4 : No face detected 
+./data/04/VID20191128131939.mp4 : No face detected 
+./data/04/IMG_9676.MOV : Too many face detected 
+./data/04/VID-20200112-WA0095.mp4 : No face detected 
+./data/04/20200112_171959_Trim.mp4 : No face detected 
+./data/04/20200115_114456_Trim.mp4 : No face detected 
+./data/04/VID-20200112-WA0116.mp4 : No face detected 
+./data/04/IMG_9598.MOV : No face detected 
+./data/04/IMG_9587.MOV : No face detected 
+./data/04/20200112_171719_Trim.mp4 : No face detected 
+./data/04/IMG_9271.MOV : Too many face detected 
+./data/04/IMG_9121.MOV : Too many face detected 
+./data/04/IMG_9487.MOV : Too many face detected 
+./data/04/IMG_9293.MOV : No face detected 
+./data/04/IMG_9281.MOV : No face detected 
+./data/04/20200115_114912_Trim.mp4 : No face detected 
+./data/04/VID20200114200719.mp4 : Too many face detected 
+./data/04/20200115_114833_Trim.mp4 : No face detected 
+./data/04/20200112_171303_Trim.mp4 : No face detected 
+./data/04/20200115_115154_Trim.mp4 : No face detected 
+./data/04/20200115_114527_Trim.mp4 : No face detected 
+./data/04/20200115_114801_Trim.mp4 : No face detected 
+./data/04/20200115_115114_Trim.mp4 : No face detected 
+./data/04/IMG_9609.MOV : No face detected 
+./data/04/IMG_0703.MOV : Too many face detected 
+./data/04/VID-20200115-WA0202.mp4 : No face detected 
+./data/04/20200112_172713_Trim.mp4 : No face detected 
+./data/04/20200112_181512_Trim.mp4 : No face detected 
+./data/04/VID-20200112-WA0173.mp4 : No face detected 
+./data/04/20200112_205759_Trim.mp4 : No face detected 
+./data/04/IMG_9454.MOV : Too many face detected 
+./data/04/VID-20200115-WA0012.mp4 : No face detected 
+./data/04/20200115_122645_Trim.mp4 : No face detected 
+./data/04/20200112_172153_Trim.mp4 : No face detected 
+./data/04/IMG_9432.MOV : No face detected 
+./data/04/VID-20191210-WA0039.mp4 : Too many face detected 
+./data/04/WhatsApp Video 2020-01-13 at 1.45.25 AM (1).mp4 : No face detected 
